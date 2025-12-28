@@ -1,4 +1,4 @@
-## 👋 Nimi Maharaj welcomes you
+## Nimi Maharaj welcomes you!
 
 **Energy • Data • Machine Learning**
 
