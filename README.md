@@ -1,23 +1,8 @@
-## ## Nimi Maharaj welcomes you  
-Energy • Data • Machine Learning
+## 👋 Nimi Maharaj welcomes you
 
+**Energy • Data • Machine Learning**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+Exploring data-driven solutions at the intersection of  
+energy systems, analytics, and machine learning.
 
-
-<!--
-**NimiMaharaj/NimiMaharaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=NimiMaharaj&label=Profile%20Views&color=0e75b6&style=flat)
