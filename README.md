@@ -1,4 +1,11 @@
-## Hi there 👋
+## ## Nimi Maharaj welcomes you  
+Energy • Data • Machine Learning
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 <!--
 **NimiMaharaj/NimiMaharaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
